@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #f9f7f8;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.producto-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/cupcake.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+
+}
+.producto-img2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/pasteleria.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+    
+}
+
+.producto-img3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/Galletas.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+
+}
+.producto-img4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/Pan.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+}
+.producto-img5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/Facturas.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+}
+.producto-img6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/pizza.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+
+}
+.producto-img7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/sandwich-de-miga.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+}
+.producto-img8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/Receta-de-chipa-paraguaya.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+}
+.producto-img9 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./fotos/desayuno.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25vh;
+ }
+.footer{
+  
+    background-color: #af762f;
+}
+
